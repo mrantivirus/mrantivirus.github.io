@@ -1,0 +1,30 @@
+{
+  "name": "mr-antivirus.github.io",
+  "version": "0.0.1",
+  "description": "My portfolio site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mr-Antivirus/Mr-Antivirus.github.io"
+  },
+  "author": "Dennis Norton (dennis.norton90@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Antivirus/Mr-Antivirus.github.io/issues"
+  },
+  "homepage": "https://github.com/Mr-Antivirus/Mr-Antivirus.github.io",
+  "dependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "gulp-browserify": "^0.5.1",
+    "history": "^1.13.1",
+    "jquery": "^2.1.4",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "semantic-ui-css": "^2.1.6"
+  }
+}
